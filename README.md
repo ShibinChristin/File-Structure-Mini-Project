@@ -1,6 +1,6 @@
  # File-Structure-Mini-Project
 
-# Components 
+# Components :
 # Languages 
 python 3.9.5
 # Development Environment 
